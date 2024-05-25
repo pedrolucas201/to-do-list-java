@@ -8,7 +8,7 @@ Organizamos o projeto em pastas pra deixar tudo arrumadinho:
 - **servicos/**: Aqui ficam as partes que cuidam das ações que a gente pode fazer com essas coisas, como adicionar, editar e excluir.
 - **repositorios/**: É onde a gente guarda os dados das nossas coisas, tipo uma lista de tarefas.
 - **interfaces/**: Essas pastas têm uns "contratos" pra definir o que as partes de serviços e repositórios podem fazer.
-- **principal/**: É a pasta principal da aplicação, onde fica o código que "liga" tudo e também a parte de interface gráfica.
+- **main/**: É a pasta principal da aplicação, onde fica o código que "liga" tudo e também a parte de interface gráfica.
 
 ### Funcionalidades Principais
 A gente pode fazer as seguintes coisas com a aplicação:
